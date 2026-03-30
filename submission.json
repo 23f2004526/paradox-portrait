@@ -1,1 +1,18 @@
-sub
+{
+  "prompt": "Dusk street photography style. A wide outdoor courtyard filled
+with a warm, animated crowd of people — every person is turned
+slightly inward, gesturing toward others deeper in the crowd.
+At every edge of the crowd, individual figures stand slightly
+apart, looking in at the denser center. Yet when you look at
+the center, those people are also looking inward at an even
+denser core. There is no true center — every person is at
+a periphery relative to someone else.
+The overall crowd is vast and connected; every individual
+within it feels peripheral.
+Mood: melancholy, mathematical inevitability.
+Warm interior light spilling into a cool blue dusk exterior.
+No text, no labels, no diagrams. Photorealistic.",
+  "model": "Banana (Gemini Imagen)",
+  "paradox": "Friendship Paradox",
+  "visual_logic": "A hillside where every individual path visibly slopes upward, but the overall mountain descends from left to right — local and global trends simultaneously visible and contradictory in one frame"
+}
